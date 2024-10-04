@@ -6,7 +6,7 @@
   "spread_marketID": "754.99954617",
   "eventID": "33624502",
   "marketStartTime": "2024-10-06T17:00:00.000Z",
-  "inplay": true,
+  "inplay": false,
   "home_name": "Houston Texans",
   "home_decimal": 1.9090909090909092,
   "home_numerator": 100,
